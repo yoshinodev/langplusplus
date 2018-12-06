@@ -1,5 +1,4 @@
 # lang++
-code editing tools with support for non-English languages
 lang++ is a collection of code editing tools with support for non-English languages.
 As of now, lang++ supports one language-programming language combination (Chinese-C++), working to increase number of languages, improve the use of links to external resources, and integrate machine learning to to provide better assistance to user.
 
