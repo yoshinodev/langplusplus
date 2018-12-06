@@ -3,7 +3,7 @@ lang++ is a collection of code editing tools with support for non-English langua
 
 Most, if not all, of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers to learn to code. Since computer knowledge and programming skills are becoming increasingly valuable in today's world, the lack of support for other languages puts non-English speakers at a disadvantage.
 
-As of now, lang++ supports one language-programming language combination (Chinese-C++), working to increase number of languages, improve the use of links to external resources, and integrate machine learning to to provide better assistance to user.
+As of now, lang++ supports one language-programming language combination (Chinese-C++). Currently working to increase number of languages, improve the use of links to external resources, and integrate machine learning to to provide better assistance to user.
 
 ## Instructions
 To see the online editor in action, download index.html and main.css (from "css" folder) files, then open index.html using browser.
