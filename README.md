@@ -6,7 +6,7 @@ Most, if not all, of the world's widely-used programming languages are English-b
 As of now, lang++ supports one language-programming language combination (Chinese-C++). Currently working to increase number of languages, improve the use of links to external resources, and integrate machine learning to to provide better assistance to user.
 
 ## Instructions
-To see the online editor in action, download index.html and main.css (from "css" folder) files, then open index.html using browser.
+To see the online editor in action, download ACE Editor files from ACE Github, index.html, and main.css (from "css" folder) files, then open index.html using browser.
 
 Translation is in "translations" folder in the form of .csv file.
 
