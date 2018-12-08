@@ -1,24 +1,13 @@
 Chinese,cpp
-包括,include
-包含,include
-括,include
-包,include
-包罗,include
-加入,include
-运用,include
-用,include
-使用,include
-利用,include
+包括,#include
+包含,#include
+括,#include
+包,#include
+包罗,#include
 输入输出,iostream
 控制台输入输出,iostream
 标准输入输出,iostream
-文件输入输出,fstream (when preceded by #include)
-包括,using
-包含,using
-括,using
-包,using
-包罗,using
-加入,using
+文件输入输出,fstream
 运用,using
 用,using
 使用,using
@@ -198,9 +187,9 @@ Chinese,cpp
 最大值,max
 最大,max
 极大,max
-数学,math.h (when preceded by #include)
+数学,math.h
 数学头文件,math.h
-数学,cmath (when preceded by #include)
+数学,cmath
 数学头文件,cmath
 反余弦,acos
 反正弦,asin
