@@ -32,4 +32,4 @@ Contributors to lang++ are involved in improving the code for the demo as well a
 * **Anne Li** - *Initial work* - [fibanneacci](https://github.com/fibanneacci)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
