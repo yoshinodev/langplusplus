@@ -6,11 +6,11 @@ Most, if not all, of the world's widely-used programming languages are English-b
 As of now, lang++ supports one language-programming language combination (Chinese-C++). Currently working to increase number of languages, improve the use of links to external resources, and integrate machine learning to to provide better assistance to users.
 
 ## Instructions/Notes
-To see the online editor in action, download ACE Editor files from ACE Github, index.html, and main.css (from "css" folder) files, then open index.html using browser. Or, go to [https://langpp.weebly.com](https://langpp.weebly.com).
+To see the online editor demo in action, download ACE Editor files from ACE Github, index.html, and main.css (from "css" folder) files, then open index.html using browser. Or, go to [https://langpp.weebly.com](https://langpp.weebly.com).
 
 Translation is in "translations" folder in the form of .csv file.
 
-Data string in demo is set to Chinese-to-C++ translations, due to only having one language-programming language combination. In the future, aiming to make it dynamic (controlled using the dropdowns). In addition, working on better way to parse translations from aforementioned .csv files; currently, have been converting .csv files to .txt, then using Python parse program in "parse" folder to convert data in .txt to one single string (with '\n' substituted for newlines).
+The data string in the demo is set to the string of Chinese-to-C++ translations (see [Chinese-C++ .txt file](https://github.com/fibanneacci/langplusplus/blob/master/translations/chinese_c_cpp.txt)), due to only having one language-programming language combination. In the future, we're aiming to make it dynamic (controlled using the dropdowns). In addition, we're working on improving our method of parsing translations from aforementioned .csv files; currently, we've been converting .csv files to .txt, then using the Python parse program in the "parse" folder to convert the data in the .txt file to one single string (with '\n' substituted for newlines).
 
 ## Goals for lang++
 
@@ -23,7 +23,7 @@ Data string in demo is set to Chinese-to-C++ translations, due to only having on
     
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
+Contributors to lang++ are involved in improving the code for the demo as well as integrating machine learning techniques to improve certain features. In addition, translations contributors are an integral part of lang++'s community. Please read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
 
 ## Built With
 * ACE Editor - [ACE Editor Github](https://github.com/ajaxorg/ace)
