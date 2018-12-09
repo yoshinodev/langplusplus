@@ -8,7 +8,7 @@ Summarize your changes, including issues addressed:
 
 Describe how you tested your changes:
 
-# Checklist:
+### Checklist:
 
 - [ ] I have commented throughout my code
 - [ ] I have tested my code
