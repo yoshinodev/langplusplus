@@ -31,7 +31,8 @@ Contributors to lang++ are involved in improving the code for the demo as well a
 
 ## Authors
 * **Anne Li** - *Initial work* - [fibanneacci](https://github.com/fibanneacci)
-View [contributors](https://github.com/your/project/contributors) to this project.
+
+View [contributors](https://github.com/fibanneacci/langplusplus/contributors) to this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details
