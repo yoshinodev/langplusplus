@@ -12,6 +12,10 @@ Translation is in "translations" folder in the form of .csv file.
 
 Data string in demo is initialized to Chinese-to-C++ translations. Working on better way to parse translations from aforementioned .csv files; currently, have been converting .csv files to .txt, then using Python parse program in "parse" folder to convert data in .txt to one single string (with '\n' substituted for newlines). In addition, due to only having one language-programming language combination, index.html is set permanently to this combination for now.
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
+
 ## Built With
 * ACE Editor - [ACE Editor Github](https://github.com/ajaxorg/ace)
 
