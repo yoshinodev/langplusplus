@@ -10,7 +10,7 @@ To see the online editor in action, download ACE Editor files from ACE Github, i
 
 Translation is in "translations" folder in the form of .csv file.
 
-Data string in demo is initialized to Chinese-to-C++ translations. Working on better way to parse translations from aforementioned .csv files; currently, have been converting .csv files to .txt, then using Python parse program in "parse" folder to convert data in .txt to one single string (with '\n' substituted for newlines). In addition, due to only having one language-programming language combination, index.html is set permanently to this combination for now.
+Data string in demo is set to Chinese-to-C++ translations, due to only having one language-programming language combination. In the future, aiming to make it dynamic (controlled using the dropdowns). In addition, working on better way to parse translations from aforementioned .csv files; currently, have been converting .csv files to .txt, then using Python parse program in "parse" folder to convert data in .txt to one single string (with '\n' substituted for newlines).
 
 ## Goals for lang++
 
