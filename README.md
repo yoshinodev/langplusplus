@@ -14,6 +14,7 @@ Data string in demo is set to Chinese-to-C++ translations, due to only having on
 
 ## Goals for lang++
 
+ * Add language-programming language combinations
  * Improve method for parsing translation data
  * Make demo dynamic
  * Incorporate machine learning
