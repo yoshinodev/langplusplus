@@ -26,3 +26,7 @@ If you find any bugs or potential improvements, please open an issue or pull req
 
 lang++ currently has 1 language-programming language combination. If you are familiar with any languages (other than English) and programming languages for which translation files have not already been created, please upload a new file (in .csv format) in the "translations" folder.
 In addition, feel free to collaborate with others working on the same language files as you to improve existing translations.
+
+#### Issues and Pull Requests
+
+To open issues and/or pull requests, please follow the format outlined in our templates [ISSUE_TEMPLATE.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/ISSUE_TEMPLATE.md) and [PULL_REQUEST_TEMPLATE.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
