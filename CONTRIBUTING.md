@@ -16,4 +16,4 @@ If you haven't already, please take the time to read our [Code of Conduct](https
 
 ### How to Contribute
 
-If you find any bugs or potential improvements, please open an issue or a pull request.
+If you find any bugs or potential improvements, please open an issue or pull request.
