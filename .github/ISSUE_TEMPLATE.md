@@ -1,5 +1,5 @@
 ### Title:
-Please name your issue in the format "CATEGORY: Description". Possible categories include the following:
+Please name your issue in the format "CATEGORY: short description". Possible categories include the following:
 
 - TRANSLATIONS
 - DEMO
