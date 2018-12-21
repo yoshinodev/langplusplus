@@ -1,3 +1,11 @@
+### Title:
+Please name your issue in the format "CATEGORY: Description". Possible categories include the following:
+
+- TRANSLATIONS
+- DEMO
+- DATA PROCESSING
+- DOCUMENTATION
+
 Before you begin, make sure:
 
 - [ ] You have checked the documentation
