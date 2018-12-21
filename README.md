@@ -21,6 +21,8 @@ The data string in the demo is set to the string of Chinese-to-C++ translations 
     * Improve translation accuracy
     * Consider context when suggesting autocompletions
     
+See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
+    
 ## Contributing
 
 Contributors to lang++ are involved in improving the code for the demo as well as integrating machine learning techniques to improve certain features including autocompletion. In addition, translations contributors are an integral part of lang++'s community.
