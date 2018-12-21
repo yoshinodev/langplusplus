@@ -23,7 +23,9 @@ The data string in the demo is set to the string of Chinese-to-C++ translations 
     
 ## Contributing
 
-Contributors to lang++ are involved in improving the code for the demo as well as integrating machine learning techniques to improve certain features including autocompletion. In addition, translations contributors are an integral part of lang++'s community. Please read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
+Contributors to lang++ are involved in improving the code for the demo as well as integrating machine learning techniques to improve certain features including autocompletion. In addition, translations contributors are an integral part of lang++'s community.
+
+We greatly appreciate contributions. Yours will not go unnoticed. Visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. Please read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
 
 ## Built Using
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)
