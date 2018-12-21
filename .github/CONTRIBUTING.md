@@ -14,6 +14,8 @@ If you haven't already, please take the time to read our [Code of Conduct](https
  * Incorporate machine learning
     * Improve translation accuracy
     * Consider context when suggesting autocompletions
+    
+See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
 
 ### How to Contribute
 
