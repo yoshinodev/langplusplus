@@ -1,35 +1,44 @@
 # lang++
-lang++ is a collection of code editing tools with support for non-English languages.
+A collection of code editing tools with support for non-English languages.
 
-Most, if not all, of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers to learn to code. Since computer knowledge and programming skills are becoming increasingly valuable in today's world, the lack of support for other languages puts non-English speakers at a disadvantage.
+![](assets/demo.gif)
 
-As of now, lang++ supports one language-programming language combination (Chinese-C++). We are currently working to increase number of languages, improve the use of links to external resources, and integrate machine learning to to provide better assistance to users.
+Many of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers to learn to code. Programming is becoming increasingly valuable in today's world, putting non-English speakers at a disadvantage.
 
-## Instructions/Notes
-To see the online editor demo in action, download ACE Editor files from ACE Github, index.html, and main.css (from "css" folder) files, then open index.html using browser. Or, go to [https://langpp.weebly.com](https://langpp.weebly.com).
+## Goals
 
-Translation is in "translations" folder in the form of .csv file.
-
-The data string in the demo is set to the string of Chinese-to-C++ translations (see [Chinese-C++ .txt file](https://github.com/fibanneacci/langplusplus/blob/master/translations/chinese_c_cpp.txt)), due to only having one language-programming language combination. In the future, we're aiming to make it dynamic (controlled using the dropdowns). In addition, we're working on improving our method of parsing translations from aforementioned .csv files; currently, we've been converting .csv files to .txt, then using the Python parse program in the "parse" folder to convert the data in the .txt file to one single string (with '\n' substituted for newlines).
-
-## Goals for lang++
-
- * Add language-programming language combinations
- * Improve method for parsing translation data
- * Make demo dynamic
+ * Expand language-programming language translation database
+   * As of now, lang++ supports only 1 lang-prog lang combination (Chinese-C++)
+ * Improve method for parsing translation data / make data retrieval automated process
+   * Currently, parsing involves using Python program to process .csv files (outputting data as single string)
+   * String is then copy-pasted into html file as variable, parsed using D3
  * Incorporate machine learning
     * Improve translation accuracy
     * Consider context when suggesting autocompletions
     
 See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
+
+## Instructions
+
+To see the online editor demo in action, follow these steps:
+1. Download ACE Editor files from ACE Github (See "Dependencies / Built Using" below)
+2. Download D3 files from D3 Github (See "Dependencies / Built Using" below)
+3. Download lang++ repository and open index.html file using browser.
+Alternately, you can visit [https://langpp.weebly.com](https://langpp.weebly.com).
+
+You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
     
 ## Contributing
 
-Contributors to lang++ are involved in improving the code for the demo as well as integrating machine learning techniques to improve certain features including autocompletion. In addition, translations contributors are an integral part of lang++'s community.
+lang++ provides various opportunities for contributing, including:
 
-We greatly appreciate contributions; yours will not go unnoticed. Visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. Please read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
+ * Expanding the database of translations
+ * Improving the demo code
+ * Integrating machine learning
 
-## Built Using
+We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. Read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
+
+## Dependencies / Built Using
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)
 * D3 - parsing .csv data - [D3 Github Repo](https://github.com/d3/d3), [Official Website](https://d3js.org)
 
