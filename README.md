@@ -28,7 +28,7 @@ To see the online editor demo in action, follow these steps:
 3. Download lang++ repository and open index.html file using browser.
 Alternately, you can visit [https://langpp.weebly.com](https://langpp.weebly.com).
 
-![](assets/demo_weebly.png)
+![](assets/demo_html.png)
 
 You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
     
