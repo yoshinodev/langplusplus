@@ -5,6 +5,7 @@ Please name your issue in the format "CATEGORY: short description". Possible cat
 - DEMO
 - DATA PROCESSING
 - DOCUMENTATION
+- MISCELLANEOUS
 
 Before you begin, make sure:
 
