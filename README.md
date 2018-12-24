@@ -60,7 +60,7 @@ To see the online editor demo in action, follow these steps:
 
 Here is what "index.html" looks like opened using Google Chrome:
 
-<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo_html.png" width="650">
+<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.png" width="650">
 
 You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
     
