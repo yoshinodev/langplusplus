@@ -5,9 +5,7 @@ A collection of code editing tools with support for non-English languages.
 
 ## ✔️ Purpose
 
-Most of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers to learn to code. Programming is becoming increasingly valuable in today's world, putting many at a disadvantage. lang++ addresses this using the translation functionality demonstrated in the GIF above.
-Most of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers who wish to learn these languages.
-Most of the world's widely-used programming languages are English-based, making the learning process difficult for many non-English speakers who wish to use such languages in their studies and/or careers. 
+Many of the most widely-used programming languages are English-based, making the learning process difficult for many non-English speakers who wish to use these languages in their studies and/or careers. Programming is becoming an increasingly valuable skill in today's world, creating a disadvantage for those who do not speak English. lang++ addresses this using the translation functionality shown above.
 
 ## 🥅 Goals
 
@@ -84,4 +82,4 @@ We greatly appreciate contributions; yours will not go unnoticed. Please visit [
 View [contributors](https://github.com/fibanneacci/langplusplus/contributors) to this project.
 
 ## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details.
