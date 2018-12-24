@@ -1,11 +1,13 @@
 # lang++
 A collection of code editing tools with support for non-English languages.
 
-![](assets/demo.gif)
+<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.gif" width="650">
 
 ## ✔️ Purpose
 
-Many of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers to learn to code. Programming is becoming increasingly valuable in today's world, putting non-English speakers at a disadvantage. lang++ addresses this using the translation functionality demonstrated in the GIF above.
+Most of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers to learn to code. Programming is becoming increasingly valuable in today's world, putting many at a disadvantage. lang++ addresses this using the translation functionality demonstrated in the GIF above.
+Most of the world's widely-used programming languages are English-based, making it difficult for many non-English speakers who wish to learn these languages.
+Most of the world's widely-used programming languages are English-based, making the learning process difficult for many non-English speakers who wish to use such languages in their studies and/or careers. 
 
 ## 🥅 Goals
 
@@ -51,14 +53,14 @@ To see the online editor demo in action, follow these steps:
 ```
 
 3. Replace string in "data" variable with string for your preferred translations. Do so by following these steps:
-  a. Open program "parse.py" (in "parse" subdirectory).
-  b. Replace file name in line 1 with name of file containing your preferred translations (should be in the format "Lang_proglang.txt").
-  c. Run program and copy output into "data" variable (if you do not have Python compiler installed on your computer, use online compiler such as [OnlineGDB](https://www.onlinegdb.com/online_python_compiler), copy and paste code into "main.py", and create .txt file containing translations in .csv format using the "New File" button)
+    1. Open program "parse.py" (in "parse" subdirectory).
+    2. Replace file name in line 1 with name of file containing your preferred translations (should be in the format "Lang_proglang.txt").
+    3. Run program and copy output into "data" variable (if you do not have Python compiler installed on your computer, use online compiler such as [OnlineGDB](https://www.onlinegdb.com/online_python_compiler), copy and paste code into "main.py", and create .txt file containing translations in .csv format using the "New File" button)
 4. Replace all instances of "Chinese" with your preferred language, and "cpp" with your preferred programming language.
 
 Here is what "index.html" looks like opened using Google Chrome:
 
-![](assets/demo_html.png)
+<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo_html.png" width="650">
 
 You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
     
