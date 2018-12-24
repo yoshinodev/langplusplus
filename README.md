@@ -56,7 +56,7 @@ To see the online editor demo in action, follow these steps:
     3. Run program and copy output into "data" variable (if you do not have Python compiler installed on your computer, use online compiler such as [OnlineGDB](https://www.onlinegdb.com/online_python_compiler), copy and paste code into "main.py", and create .txt file containing translations in .csv format using the "New File" button)
 4. Replace all instances of "Chinese" with your preferred language, and "cpp" with your preferred programming language.
 
-*"index.html" in Google Chrome:*
+"index.html" in Google Chrome:
 
 <img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.png" width="650">
 
