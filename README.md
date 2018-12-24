@@ -1,7 +1,7 @@
 # lang++
 A collection of code editing tools with support for non-English languages.
 
-<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.gif" width="650">
+<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demov.gif" width="650">
 
 ## ✔️ Purpose
 
