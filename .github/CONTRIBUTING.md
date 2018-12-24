@@ -29,7 +29,7 @@ If you find any bugs or potential improvements, please open an issue or pull req
 #### Translations
 
 lang++ currently has 1 language-programming language combination. If you are familiar with any languages (other than English) and programming languages for which translation files have not already been created, please create or upload a new file (in .csv format) in the "translations" folder. Name the file using the convention "Lang_proglang" (capitalizing the language and keeping the programming language lowercase).
-In addition, feel free to collaborate with others working on the same language files as you to improve existing translations.
+In addition, feel free to collaborate with others working on the same language files to improve existing translations.
 
 #### Issues and Pull Requests
 
