@@ -5,7 +5,7 @@ A collection of code editing tools with support for non-English languages.
 
 ## ✔️ Purpose
 
-Many of the most widely-used programming languages are English-based, making the learning process difficult for many non-English speakers who wish to use these languages in their studies and/or careers. Programming is becoming an increasingly valuable skill in today's world, creating a disadvantage for those who do not speak English. lang++ addresses this using the translation functionality shown above.
+Most widely-used programming languages are English-based, making the learning process difficult for many non-English speakers intending to use such languages in their studies and/or careers. lang++ addresses this using the translation functionality shown above.
 
 ## 🥅 Goals
 
