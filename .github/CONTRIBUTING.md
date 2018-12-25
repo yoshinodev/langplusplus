@@ -24,7 +24,7 @@ See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed ta
 #### Code
 
 We are primarily working on the points listed above, in order to ensure that lang++ runs more smoothly. We are also working on making the online editor demo more user-friendly. These involve HTML/CSS/JavaScript expertise to improve the demo, as well as machine learning knowledge to improve aspects such as autocompletion.
-If you find any bugs or potential improvements, please open an issue or pull request.
+Please use the "demo" branch to contribute. If you find any bugs or potential improvements, please open an issue or pull request.
 
 #### Translations
 
