@@ -25,19 +25,20 @@
 
 <script> //parsing the translations
     var staticWordCompleter;
+    var language;
+    var prog_lang;
 
-    function parseCSV(){
-        var language  = document.getElementById("language").value;
-        var prog_lang = document.getElementById("prog_lang").value;
+    function parseCSV(){ // parsing csv before add completer
+        language  = document.getElementById("language").value;
+        prog_lang = document.getElementById("prog_lang").value;
         var file_name = "translations/" + language + "_" + prog_lang + ".csv";;
         return d3.csv(file_name);
     }
 
-    function update_translations() { //should be automatic/dynamic process
+    function update_translations() {
         parsed = arguments[0];
-        var language  = document.getElementById("language").value;
-        var prog_lang = document.getElementById("prog_lang").value;
 
+        // ensure naming convention of cpp mode for editor
         if (prog_lang == "c_cpp"){
             prog_lang = "cpp";
         }
@@ -120,9 +121,11 @@
             enableLiveAutocompletion: true
         });
 
+        // wait for parseCSV to finish before adding completer
         parseCSV().then(function(results){
             update_translations(results);
         });
+        
     </script>
     
     <script> //if lang/prog_lang selections change
