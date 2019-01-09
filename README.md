@@ -27,8 +27,7 @@ To see the online editor demo in action, follow these steps:
 ### ⬇️ Installation
 
 1. Download ACE Editor files from ACE Github (See "Dependencies / Built Using" below)
-2. Download D3 files from D3 Github (See "Dependencies / Built Using" below)
-3. Download lang++ repository.
+2. Download lang++ repository.
 
 ### 🏃 Usage
 
