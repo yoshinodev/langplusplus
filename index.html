@@ -13,16 +13,6 @@
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 
-<script> //parsing the language references - only one time
-    var refdata = "lang_pair,link\nChinese_c_cpp,https://zh.cppreference.com/w/,Chinese_swift,http://wiki.jikexueyuan.com/project/swift"
-    var refparsed = d3.csvParse(refdata);
-    var refdict = {};
-    for (var i = 0; i < refparsed.length; i++) {
-        refdict[refparsed[i].Chinese] = refparsed[i].cpp;
-    }
-</script>
-
-
 <script> //parsing the translations
     var staticWordCompleter;
     var language;
@@ -87,6 +77,7 @@
     <select id="language">
         <option value="Chinese">Chinese</option>
         <option value="Spanish">Spanish</option>
+        <option value="Japanese">Japanese</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <select id="prog_lang">
@@ -132,7 +123,8 @@
 
     </script>
 
-    <script> //if lang/prog_lang selections change
+    <script>
+        //if lang/prog_lang selections change
         $('select').on('change', function () {
             let completers = editor.completers;
             completers.splice(completers.indexOf(staticWordCompleter), 1);
@@ -143,6 +135,27 @@
             parseCSV().then(function(results){
                 update_translations(results);
             });
+        });
+
+        // change based on language
+        $('#language').on('change', function(){
+            console.log($('#language').val());
+            $('#prog_lang').html('');
+            if ($('#language').val()=="Chinese"){
+                $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+                $('#prog_lang').append('<option value="swift">swift</option>');
+            }
+            else if ($('#language').val()=="Spanish"){
+                $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+            }
+            else if ($('#language').val()=="Japanese"){
+                $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+            }
+            else {
+                // default language options?
+                $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+                $('#prog_lang').append('<option value="swift">swift</option>');
+            }
         });
     </script>
 </body>

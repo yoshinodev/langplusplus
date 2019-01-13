@@ -10,11 +10,11 @@ Programming has become an extremely valuable skill worldwide. However, most wide
 ## 🥅 Goals
 
  * Expand language-programming language translation database
-   * As of now, lang++ supports 2 lang-prog lang combinations (Chinese and Spanish to C++)
+ * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to swift)
  * Incorporate machine learning
-    * Improve translation accuracy
-    * Consider context when suggesting autocompletions
-    
+ * Improve translation accuracy
+ * Consider context when suggesting autocompletions
+
 See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
 
 ## 🗒️ Instructions
@@ -37,7 +37,7 @@ index.html in Google Chrome:
 <img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.png" width="650">
 
 You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
-    
+
 ## 👥 Contributing
 
 lang++ provides various opportunities for contributing, including:
