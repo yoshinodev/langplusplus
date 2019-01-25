@@ -10,7 +10,7 @@ Programming has become an extremely valuable skill worldwide. However, most wide
 ## 🥅 Goals
 
  * Expand language-programming language translation database
-  * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to swift)
+    * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to swift)
  * Incorporate machine learning
  * Improve translation accuracy
  * Consider context when suggesting autocompletions
