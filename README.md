@@ -11,7 +11,7 @@ Programming has become an extremely valuable skill worldwide. However, most wide
 
  * Expand language-programming language translation database
     * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to Java, and Chinese to Swift)
- * Incorporate machine learning/natural language processing
+ * Incorporate machine learning / natural language processing
     * Improve translation accuracy
     * Consider context when suggesting autocompletions
 
