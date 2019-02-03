@@ -36,7 +36,7 @@ index.html in Google Chrome:
 
 <img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.png" width="650">
 
-You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
+You can find translations in the "translations" folder, in the form of .csv files.
 
 ## 👥 Contributing
 
