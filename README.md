@@ -46,7 +46,7 @@ lang++ provides various opportunities for contributing, including:
  * Improving the demo code
  * Integrating machine learning
 
-We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md).
+We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md), and join the [Team Slack](https://join.slack.com/t/lang-co/shared_invite/enQtNTUwOTAzNzYwMzc0LWZjZDE5OTg5YzRlZTA0ZTY5YmU3MTJhNzRhOWM2NmM5N2IyNDIzOWZmYmU3NmI1NDMwMjFjNDBjMzAzMzdmNjg).
 
 ## 🛠️ Dependencies / Built Using
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)
