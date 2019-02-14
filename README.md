@@ -14,6 +14,7 @@ Programming has become an extremely valuable skill worldwide. However, most wide
  * Incorporate machine learning / natural language processing
     * Improve translation accuracy
     * Consider context when suggesting autocompletions
+ * Potential to be expanded to plugins, extensions, etc.
 
 See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
 
