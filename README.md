@@ -58,10 +58,10 @@ Furthermore, feel free to use lang++ (in accordance with the [license](https://g
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)
 * D3 - parsing .csv data - [D3 Github Repo](https://github.com/d3/d3), [Official Website](https://d3js.org)
 
+## ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details.
+
 ## ✍️ Author
 * **Anne Li** - *Initial work* - [fibanneacci](https://github.com/fibanneacci)
 
 View [contributors](https://github.com/fibanneacci/langplusplus/contributors) to this project.
-
-## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details.
