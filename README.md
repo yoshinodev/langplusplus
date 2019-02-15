@@ -29,7 +29,7 @@ Programming has become an extremely valuable skill worldwide. However, most wide
     * Better account for evolution/change of programming languages over time
  * Potential to be expanded into plugins, extensions, etc.
     * Will better serve people looking for occasional language help
-    * Function similar to dictionary
+    * Could function similar to dictionary
 
 See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
 
