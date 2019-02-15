@@ -49,6 +49,8 @@ lang++ provides various opportunities for contributing, including:
  * Expanding the database of translations
  * Improving the demo code
  * Integrating machine learning
+ 
+Furthermore, feel free to use lang++ (in accordance with the [license](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) in your own projects, such as plugins or extensions for preexisting IDEs.
 
 We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md), and join the [Team Slack](https://join.slack.com/t/lang-co/shared_invite/enQtNTUwOTAzNzYwMzc0LWZjZDE5OTg5YzRlZTA0ZTY5YmU3MTJhNzRhOWM2NmM5N2IyNDIzOWZmYmU3NmI1NDMwMjFjNDBjMzAzMzdmNjg).
 
