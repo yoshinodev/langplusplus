@@ -1,0 +1,58 @@
+Persian,cpp
+شامل,#include
+شامل,#include
+استریم,iostream
+استفاده,using
+استفاده,using
+فضانام,namespace
+استاندراد,std
+استاندارد,std
+عدد صحیح,int
+عدد صحیح,int
+اصل,main
+اصل,main
+وروردی استاندارد,cin
+ورودی استاندارد,cin
+خطای استاندارد,cout
+برای,for
+نوشته,string
+نوشته,string
+کارکتر,char
+عدد اعشاری,float
+عدد اعشاری,double
+اگر,if
+در غیر اینصورت,else
+صحیح,true
+اشتباه,false
+تازمانیکه,while
+انجام بده,do
+انجام بده,do
+هرکدام از,switch
+فایل استریم,fstream
+استریم فایل ورودی,ifstream
+استریم فایل ورودی,ifstream
+استریم فایل ورودی,ifstream
+استریم فایل خروجی,ofstream
+استریم فایل خروجی,ofstream
+استریم فایل خروجی,ofstream
+بازکردن,open
+بستن,close
+بازگشت,return
+کلاس,class
+ساختمان,struct
+شخصی,private
+عمومی,public
+محافظت شده,protected
+محافظت شده,protected
+محافظت شده,protected
+وکتور,vector
+تعریف تایپ,typedef
+جفت,pair
+ست,set
+مالتی ست,multiset
+استک,stack
+صف,queue
+بی بازگشت,void
+بی بازگشت,void
+خالی,NULL
+متد,function
