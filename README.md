@@ -3,6 +3,18 @@ A collection of code editing tools with support for non-English languages.
 
 <img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demov.gif" width="650">
 
+## 📝 Table of Contents
+
+ * [Purpose](https://github.com/fibanneacci/langplusplus#%EF%B8%8F-purpose)
+ * [Goals](https://github.com/fibanneacci/langplusplus#-goals)
+ * [Instructions](https://github.com/fibanneacci/langplusplus#%EF%B8%8F-instructions)
+    * [Installation](https://github.com/fibanneacci/langplusplus#%EF%B8%8F-installation)
+    * [Usage](https://github.com/fibanneacci/langplusplus#-usage)
+ * [Contributing](https://github.com/fibanneacci/langplusplus#-contributing)
+ * [Dependencies / Built Using](https://github.com/fibanneacci/langplusplus#%EF%B8%8F-dependencies--built-using)
+ * [License](https://github.com/fibanneacci/langplusplus#%EF%B8%8F-license)
+ * [Author](https://github.com/fibanneacci/langplusplus#%EF%B8%8F-author)
+
 ## ✔️ Purpose
 
 Programming has become an extremely valuable skill worldwide. However, most widely-used programming languages are English-based, making the learning process difficult for many non-English speakers intending to use these languages in their studies and/or careers. lang++ addresses this issue using the translation functionality shown above.
@@ -10,10 +22,14 @@ Programming has become an extremely valuable skill worldwide. However, most wide
 ## 🥅 Goals
 
  * Expand language-programming language translation database
- * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to swift)
- * Incorporate machine learning
- * Improve translation accuracy
- * Consider context when suggesting autocompletions
+    * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to Java, and Chinese to Swift)
+ * Incorporate machine learning / natural language processing
+    * Improve translation accuracy
+    * Consider context when suggesting autocompletions
+    * Better account for evolution/change of programming languages over time
+ * Potential to be expanded into plugins, extensions, etc.
+    * Will better serve people looking for occasional language help
+    * Could function similar to dictionary
 
 See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed tasks and descriptions.
 
@@ -36,7 +52,7 @@ index.html in Google Chrome:
 
 <img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.png" width="650">
 
-You can find translations in the "translations" folder, in the form of .csv files (easy to view and edit) and .txt files (single string outputted by parsing program).
+You can find translations in the "translations" folder, in the form of .csv files.
 
 ## 👥 Contributing
 
@@ -46,16 +62,18 @@ lang++ provides various opportunities for contributing, including:
  * Improving the demo code
  * Integrating machine learning
 
-We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. Read [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md) to learn more about contributing to lang++.
+We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md), and join the [Team Slack](https://join.slack.com/t/lang-co/shared_invite/enQtNTUwOTAzNzYwMzc0LWZjZDE5OTg5YzRlZTA0ZTY5YmU3MTJhNzRhOWM2NmM5N2IyNDIzOWZmYmU3NmI1NDMwMjFjNDBjMzAzMzdmNjg).
+
+Furthermore, feel free to use lang++ (in accordance with the [license](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) in your own projects, such as plugins or extensions for preexisting IDEs.
 
 ## 🛠️ Dependencies / Built Using
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)
 * D3 - parsing .csv data - [D3 Github Repo](https://github.com/d3/d3), [Official Website](https://d3js.org)
 
+## ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details.
+
 ## ✍️ Author
 * **Anne Li** - *Initial work* - [fibanneacci](https://github.com/fibanneacci)
 
 View [contributors](https://github.com/fibanneacci/langplusplus/contributors) to this project.
-
-## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details.

@@ -2,7 +2,7 @@
 
 Welcome and thank you for contributing to lang++!
 
-We greatly appreciate contributions; yours will not go unnoticed. Visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project.
+We greatly appreciate contributions; yours will not go unnoticed. Visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. Join the [Team Slack](https://join.slack.com/t/lang-co/shared_invite/enQtNTUwOTAzNzYwMzc0LWZjZDE5OTg5YzRlZTA0ZTY5YmU3MTJhNzRhOWM2NmM5N2IyNDIzOWZmYmU3NmI1NDMwMjFjNDBjMzAzMzdmNjg) to connect with other contributors.
 
 ### Code of Conduct
 
