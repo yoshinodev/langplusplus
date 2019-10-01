@@ -78,11 +78,13 @@
         <option value="Chinese">Chinese</option>
         <option value="Spanish">Spanish</option>
         <option value="Japanese">Japanese</option>
+        <option value="French">French</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <select id="prog_lang">
         <option value="c_cpp">c_cpp</option>
         <option value="swift">swift</option>
+        <option value="python">python</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <div>
@@ -151,6 +153,9 @@ function foo() {
             }
             else if ($('#language').val()=="Japanese"){
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+            }
+            else if ($('#language').val()=="French"){
+                $('#prog_lang').append('<option value="python">python</option>');
             }
             else {
                 // default language options?
