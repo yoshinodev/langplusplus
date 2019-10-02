@@ -1,0 +1,36 @@
+russian,python
+импорт,import
+как,as
+из,from
+определение,def
+вернуть,return
+глобальная,global
+печатать,print
+читать,read
+записать,write
+открыть,open
+закрыть,close
+целое число,int
+строка,str
+вещественное число,float
+если,if
+в остальном,else 
+иначе если,elif
+и,and
+или,or
+не,not
+в,in
+это,is
+Правда,True
+Ложь,False
+Ничто,None
+пока,while
+для,for
+список,list
+диапазон ,range
+длина,len
+класс,class
+сам,self
+в этом,init
+пробовать,try
+кроме,except
