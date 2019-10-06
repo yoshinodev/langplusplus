@@ -77,6 +77,7 @@
     <select id="language">
         <option value="Chinese">Chinese</option>
         <option value="Spanish">Spanish</option>
+		<option value="Russian">Russian</option>
         <option value="Japanese">Japanese</option>
         <option value="French">French</option>
         <option value="German">German</option>
@@ -155,6 +156,9 @@ function foo() {
             }
             else if ($('#language').val()=="Spanish"){
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+                $('#prog_lang').append('<option value="python">python</option>');
+			}
+			else if ($('#language').val()=="Russian"){
                 $('#prog_lang').append('<option value="python">python</option>');
             }
             else if ($('#language').val()=="Japanese"){
