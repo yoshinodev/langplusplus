@@ -79,12 +79,16 @@
         <option value="Spanish">Spanish</option>
         <option value="Japanese">Japanese</option>
         <option value="French">French</option>
+        <option value="German">German</option>
+        <option value="Persian">Persian</option>
+        <option value="Portuguese">Portuguese</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <select id="prog_lang">
         <option value="c_cpp">c_cpp</option>
         <option value="swift">swift</option>
         <option value="python">python</option>
+        <option value="java">java</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <div>
@@ -144,6 +148,7 @@ function foo() {
             console.log($('#language').val());
             $('#prog_lang').html('');
             if ($('#language').val()=="Chinese"){
+                $('#prog_lang').append('<option value="java">java</option>');
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
                 $('#prog_lang').append('<option value="swift">swift</option>');
             }
@@ -155,6 +160,17 @@ function foo() {
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
             }
             else if ($('#language').val()=="French"){
+                $('#prog_lang').append('<option value="python">python</option>');
+            }
+            else if ($('#language').val()=="Potuguese"){
+                $('#prog_lang').append('<option value="java">java</option>');
+                $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+                $('#prog_lang').append('<option value="python">python</option>');
+            }
+            else if ($('#language').val()=="Persian"){
+                $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+            }
+            else if ($('#language').val()=="German"){
                 $('#prog_lang').append('<option value="python">python</option>');
             }
             else {
