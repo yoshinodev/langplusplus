@@ -3,6 +3,7 @@ importar,import
 importe,import
 como,as
 de,from
+desde,from
 definir,def
 defina,def
 regresar,return
@@ -13,30 +14,35 @@ global,global
 mundial,global
 imprimir,print
 imprima,print
+imprime,print
 leer,read
 lee,read
 escribir,write
 escriba,write
+escribe,write
 abrir,open
 abra,open
+abre,open
 cerrar,close
 cierre,close
+cierra,close
 ent,int
 entero,int
 texto,str
 flotante,float
 si,if
-si no,else
+sino,else 
 o si,elif
 y,and
 o,or
 no,not
 en,in
 es,is
-verdad,True
-falso,False
-nada,None
-mientras,while
+Verdad,True
+Verdadero, True
+Falso,False
+Nada,None
+Mientras,while
 para,for
 lista,list
 serie,range
@@ -49,5 +55,7 @@ iniciar,init
 inicie,init
 intentar,try
 intente,try
+intenta,try
 salvo,except
 excepción,except
+excepto, except
