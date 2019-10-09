@@ -49,3 +49,4 @@ initialise,init
 essayer,try
 essaye,try
 sauf,except
+pause,break
