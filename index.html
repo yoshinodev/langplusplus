@@ -11,6 +11,7 @@
 <script src="https://d3js.org/d3.v5.js"></script>
 
 <link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel='icon' type='image/x-icon' href='./assets/logo/favicon_ouline.ico'>
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 
 <script> //parsing the translations
@@ -63,10 +64,11 @@
     <meta charset="UTF-8">
     <title>lang++</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
     <div class="header">
         <h1>
-            lang++
+            <img src="./assets/logo/logo.png" height="75">
+            <div class="switch">🌘</span>
+            </div>
         </h1>
     </div>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
@@ -76,24 +78,21 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <select id="language">
         <option value="Chinese">Chinese</option>
-        <option value="Spanish">Spanish</option>
-        <option value="Japanese">Japanese</option>
         <option value="French">French</option>
         <option value="German">German</option>
+        <option value="Japanese">Japanese</option>
         <option value="Persian">Persian</option>
         <option value="Portuguese">Portuguese</option>
+        <option value="Spanish">Spanish</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <select id="prog_lang">
         <option value="c_cpp">c_cpp</option>
-        <option value="swift">swift</option>
-        <option value="python">python</option>
         <option value="java">java</option>
+        <option value="python">python</option>
+        <option value="swift">swift</option>
     </select>
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <div>
-        <a href="https://zh.cppreference.com/w/" target="_blank">reference</a>
-    </div>
     <p></p>
 
 </head>
@@ -114,7 +113,7 @@ function foo() {
         var modelist = ace.require("ace/ext/modelist");
 
         editor.getSession().setMode("ace/mode/c_cpp");
-        editor.setTheme("ace/theme/textmate");
+        var theme = editor.setTheme("ace/theme/textmate");
 
         editor.setOptions({
             enableBasicAutocompletion: true,
@@ -148,8 +147,8 @@ function foo() {
             console.log($('#language').val());
             $('#prog_lang').html('');
             if ($('#language').val()=="Chinese"){
-                $('#prog_lang').append('<option value="java">java</option>');
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+                $('#prog_lang').append('<option value="java">java</option>');
                 $('#prog_lang').append('<option value="swift">swift</option>');
             }
             else if ($('#language').val()=="Spanish"){
@@ -162,9 +161,9 @@ function foo() {
             else if ($('#language').val()=="French"){
                 $('#prog_lang').append('<option value="python">python</option>');
             }
-            else if ($('#language').val()=="Potuguese"){
-                $('#prog_lang').append('<option value="java">java</option>');
+            else if ($('#language').val()=="Portuguese"){
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
+                $('#prog_lang').append('<option value="java">java</option>');
                 $('#prog_lang').append('<option value="python">python</option>');
             }
             else if ($('#language').val()=="Persian"){
@@ -174,13 +173,27 @@ function foo() {
                 $('#prog_lang').append('<option value="python">python</option>');
             }
             else {
-                // default language options?
+                // default language options
                 $('#prog_lang').append('<option value="c_cpp">c_cpp</option>');
-                $('#prog_lang').append('<option value="swift">swift</option>');
+            }
+        });
+    </script>
+    <script>
+        $( ".switch" ).on("click", function() {
+            if( $( "body" ).hasClass( "dark" )) {
+                $( "body" ).removeClass( "dark" );
+                $( ".switch" ).text( "🌘" );
+                $theme = editor.setTheme("ace/theme/textmate");
+            } else {
+                $( "body" ).addClass( "dark" );
+                $( ".switch" ).text( "🌖" );
+                $theme = editor.setTheme("ace/theme/dracula");
             }
         });
     </script>
 </body>
-
+<footer>
+    <a href="https://zh.cppreference.com/w/" target="_blank">reference</a>
+</footer>
 
 </html>
