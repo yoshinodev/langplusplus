@@ -33,4 +33,6 @@ In addition, feel free to collaborate with others working on the same language f
 
 #### Issues and Pull Requests
 
-To open issues and/or pull requests, please follow the format outlined in our templates [ISSUE_TEMPLATE.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/ISSUE_TEMPLATE.md) and [PULL_REQUEST_TEMPLATE.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+To open issues and/or pull requests, please follow the format outlined in our templates [bug_report.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
+[custom.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/ISSUE_TEMPLATE/custom.md)
+[feature_request.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/ISSUE_TEMPLATE/feature_request.md) and [PULL_REQUEST_TEMPLATE.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
