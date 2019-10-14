@@ -47,9 +47,9 @@ regressar,return
 voltar,return
 devolver,return
 devolva,return
-if,se
-else,senao
-if else,ou se
+se,if
+senao,else
+ou se,if else
 e,and
 ou,or
 nao,not
@@ -58,9 +58,9 @@ eh,is
 verdadeiro,true
 falso,false
 enquanto,while
-do,faça
-do,faca
-size,tamanho
+faça,do
+faca,do
+tamanho,tamanho
 excecao,exception
 tentar,try
 tente,try
@@ -74,8 +74,8 @@ soltar,throw
 isto,this
 este,this
 NULO,NULL
-new,novo
-package,pacote
+novo,new
+pacote,package
 formato,format
 formatar,formar
 pegue,get
@@ -87,7 +87,7 @@ atribuir,set
 igual,=
 instanciar,=
 tabela,table
-debug,debugar
+debugar,debug
 Objeto,Object
 Conexao,Connection
 Colecao,Collection
