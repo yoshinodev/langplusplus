@@ -1,17 +1,40 @@
 .header img {
-        float: left;
+    float: left;    
+    margin: 15px;
+
 }
 .header h1 {
-    /*margin: 30px;*/
-	font-family: 'Abril Fatface', cursive;
+    overflow: hidden;
 }
 select {
-    margin-bottom: 30px;
+    margin: 10px;
+    width: 125px;
+    padding: 5px 20px;
+    font-size: 16px;
+    height: 34px;
+    border-radius: 10px;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #3cbd6f;
+    background-image: linear-gradient(#3cbd6f, #55cc57);
+    color: white;
     font-family: 'Roboto', sans-serif;
 }
 body {
+    text-align: center;
+    font-size: 25px;
     margin: 30px;
     overflow: hidden;
+}
+footer {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 100%;
+    text-align: end;
+    font-size: 15px;
 }
 .ace_editor {
     border: 1px solid lightgray;
@@ -24,6 +47,18 @@ body {
     text-align: center;
 }
 .instructions {
-	margin-bottom: 30px;
+	margin-bottom: 15px;
         font-family: 'Roboto', sans-serif;
+}
+.switch {
+    cursor: pointer;
+    text-align: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-size: 25px;
+}
+.dark {
+    background-color: #221f2a;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
 }
