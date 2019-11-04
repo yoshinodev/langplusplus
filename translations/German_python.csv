@@ -91,7 +91,7 @@ vgl,cmp
 coerce,coerce
 kompiliere,compile
 komplex,complex
-copyright,copyright
+Urheberrechte,copyright
 wuerdigung,credits
 entfattr,delattr
 lexikon,dict
@@ -100,7 +100,7 @@ divmod,divmod
 aufzaehlung,enumerate
 eval,eval
 execfile,execfile
-raus,exit
+beenden,exit
 datei,file
 filter,filter
 fliesskomma,float
@@ -139,7 +139,7 @@ reduce,reduce
 reload,reload
 repr,repr
 reversed,reversed
-runde,round
+runden,round
 menge,set
 setattr,setattr
 slice,slice
