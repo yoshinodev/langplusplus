@@ -5,14 +5,19 @@ ErroDeAfirmacao,AssertionError
 ErroDeAtributo,AttributeError
 arranjo, array
 como,as
+afirmar,assert
+interromper,break
+quebrar,break
 baites,bytes
 arranjodebaites,bytearray
 classe,class
 encerrar,close
 fechar,close
 complexo,complex
+continuar,continue
 defina,def
 definir,def
+apagar,del
 AvisoDeDeprecacao,DeprecationWarning
 dic, dict
 ouse,elif
@@ -21,6 +26,8 @@ ErroDeAmbiente,EnvironmentError
 excecao,except
 exceto,except
 Excecao,Exception
+Falso,False
+finalmente,finally
 flutuante,float
 ErroDeFlutuante,FloatingPointError
 para,for
@@ -39,6 +46,7 @@ iniciar,init
 inicie,init
 inteiro,int
 erroES,IOError
+mesmoque,is
 is,is
 ErroDeChave,KeyError
 InterrucaoDeTeclado,KeyboardInterrupt
@@ -47,14 +55,17 @@ lista,list
 ErroDeMemoria,MemoryError
 ErroDeNome,NameError
 Nada,None
+naolocal,nonlocal
 nao,not
 NaoImplementado,NotImplemented
 ErroNaoImplementado,NotImplementedError
 abra,open
 abrir,open
 ou,or
+ignorar,pass
 imprima,print
 imprimir,print
+levantar,raise
 intervalo,range
 serie,range
 leia,read
@@ -68,10 +79,11 @@ proprio,self
 conjunto,set
 conjuntocongelado, frozenset
 texto,str
+Verdadeiro,True
 tentar,try
 tente,try
+com,with
 enquanto,while
 escreva,write
 escrever,write
-FALSO,FALSE
-VERDADEIRO,TRUE
+terminar,yield
