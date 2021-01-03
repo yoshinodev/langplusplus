@@ -1,5 +1,4 @@
 German,python;;;;;
-Konstanten,constants;;;;;
 Wahr,True;;;;;Wahr,TRUE
 Falsch,False;;;;;Falsch,FALSE
 Nichts,None;;;;;Nichts,None
@@ -12,7 +11,6 @@ beende,exit;;;;;beenden,exit
 uhrheberrechte,copyright;;;;;Urheberrechte,copyright
 wuerdigung,credits;;;;;wuerdigung,credits
 lizenz,license;;;;;lizenz,license
-Schluesselwoerter,keywords;;;;;
 und,and;;;;;und,and
 als,as;;;;;
 kontrolliere,assert;;;;;kontrolliere,assert
@@ -47,7 +45,6 @@ solange,while;;;;;solange,while
 mit,with;;;;;
 ergibt,yield;;;;;ergibt,yield
 __peg_parser__,__peg_parser__;;;;;
-EingebauteAusnahmen,BuiltInEsceptions;;;;;
 BasisAusnahme,BaseException;;;;;
 SystemAusstieg,SystemExit;;;;;SystemAusgang,SystemExit
 TastaturUnterbrechung,KeyboardInterrupt;;;;;TastaturUnterbrechung,KeyboardInterrupt
@@ -112,7 +109,6 @@ ImportWarnung,ImportWarning;;;;;
 UnicodeWarnung,UnicodeWarning;;;;;
 BytesWarnung,BytesWarning;;;;;
 BezugsquelleWarnung,ResourceWarning;;;;;
-EingebauteFunktionen,BuiltInFunctions;;;;;
 abs,abs;;;;;abs,abs
 alle,all;;;;;
 irgendeine,any;;;;;
@@ -192,7 +188,6 @@ schluesselwort.swliste,keyword.kwlist;;;;;
 schluesselwort.istschluesselwort,keyword.iskeyword;;;;;
 __doc__,__doc__;;;;;__doc__,__doc__
 __name__,__name__;;;;;__name__,__name__
-VeralteteFunktionen,DeprecatedFunctions;;;;;
 StandardFehler,StandardError;;;;;StandardFehler,StandardError
 WindowsFehler,WindowsError;;;;;WindowsFehler,WindowsError
 UmgebungsFehler,EnvironmentError;;;;;UmgebungsFehler,EnvironmentError

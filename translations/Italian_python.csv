@@ -1,5 +1,4 @@
 Italian,python
-costanti,constants
 Vero,True
 Falso,False
 Niente,None
@@ -13,7 +12,6 @@ copyright,copyright
 dirittid'autore,copyright
 riconoscimenti,credits
 licenza,license
-parolechiave,keywords
 e,and
 and_logico,and
 come,as
@@ -57,7 +55,6 @@ fintantoché,while
 con,with
 risulta,yield
 __peg_parser__,__peg_parser__
-EccezioniIncorporati,BuiltInExceptions
 EccezioneBase,BaseException
 SistemaCessazione,SystemExit
 BloccoTastiera,KeyboardInterrupt
@@ -135,7 +132,6 @@ AvvisoUnicode,UnicodeWarning
 AvvisoBytes,BytesWarning
 AvvisoFonte,ResourceWarning
 AvvisoRisorsi,ResourceWarning
-FunzioniIncorporati,BuiltInFunctions
 assoluto,abs
 tutti,all
 qualsiasi,any
@@ -148,7 +144,7 @@ bytearray,bytearray
 bytes,bytes
 chiamabile,callable
 carattere,chr
-@metodoclasse,@classmethod
+metodoclasse,classmethod
 compila,compile
 complesso,complex
 cancellaattr,delattr
@@ -206,7 +202,7 @@ insieme,set
 impostaattr,setattr
 slice,slice
 ordinato,sorted
-@metodostatico,@staticmethod
+metodostatico,staticmethod
 stringa,str
 somma,sum
 super,super
