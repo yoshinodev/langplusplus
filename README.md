@@ -17,7 +17,7 @@ A collection of code editing tools with support for non-English languages.
 
 ## ✔️ Purpose
 
-Programming has become an extremely valuable skill worldwide. However, most widely-used programming languages are English-based, making the learning process difficult for many non-English speakers intending to use these languages in their studies and/or careers. lang++ addresses this issue using the translation functionality shown above.
+Most widely-used programming languages are English-based, making the learning process difficult for many non-English speakers intending to use these languages in their studies and/or careers. lang++ addresses this issue using the translation functionality shown above.
 
 ## 🥅 Goals
 
@@ -62,9 +62,9 @@ lang++ provides various opportunities for contributing, including:
  * Improving the demo code
  * Integrating machine learning
 
-We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md), and join the [Team Slack](https://join.slack.com/t/lang-co/shared_invite/enQtNTUwOTAzNzYwMzc0LWZjZDE5OTg5YzRlZTA0ZTY5YmU3MTJhNzRhOWM2NmM5N2IyNDIzOWZmYmU3NmI1NDMwMjFjNDBjMzAzMzdmNjg).
+We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md), and join the [Team Slack](https://lang-co.slack.com).
 
-Furthermore, feel free to use lang++ (in accordance with the [license](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) in your own projects, such as plugins or extensions for preexisting IDEs.
+Furthermore, feel free to use lang++ (in accordance with the [license](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE)) in your own projects, such as plugins or extensions for preexisting IDEs.
 
 ## 🛠️ Dependencies / Built Using
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)

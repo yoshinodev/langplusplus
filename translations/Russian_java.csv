@@ -1,0 +1,35 @@
+Russian,Java
+абстрактный,abstract
+буль,boolean
+прервать,break
+байт,byte
+случай,case
+перехват,catch
+число,char
+по умолчанию,default
+делает,do
+если,if
+в остальном,else
+расширяет,extends
+финальный,final
+для,for
+импорт,import
+инстация,instanceof
+целое число,int
+большое число,long
+новая,new
+частный,private
+защищенный,protected
+публичный,public
+нужно,requires
+вернуть,return
+короткий,short
+статический,static
+супер,super
+переключатель,switch
+это,this
+бросок,throw
+бросает,throws
+попытка,try
+недействительный,void
+пока,while
