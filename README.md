@@ -1,7 +1,7 @@
 # lang++
 A collection of code editing tools with support for non-English languages.
 
-<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demov.gif" width="650">
+<img src="https://github.com/fibanneacci/langplusplus/blob/main/assets/demov.gif" width="650">
 
 ## 📝 Table of Contents
 
@@ -50,7 +50,7 @@ To see the online editor demo in action, follow these steps:
 
 index.html in Google Chrome:
 
-<img src="https://github.com/fibanneacci/langplusplus/blob/master/assets/demo.png" width="650">
+<img src="https://github.com/fibanneacci/langplusplus/blob/main/assets/demo.png" width="650">
 
 You can find translations in the "translations" folder, in the form of .csv files.
 
@@ -62,16 +62,16 @@ lang++ provides various opportunities for contributing, including:
  * Improving the demo code
  * Integrating machine learning
 
-We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/master/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/master/CODE_OF_CONDUCT.md), and join the [Team Slack](https://lang-co.slack.com).
+We greatly appreciate contributions; yours will not go unnoticed. Please visit [contributors](https://github.com/fibanneacci/langplusplus/contributors) to view a list of contributors this project. To learn more about contributing to lang++, visit [CONTRIBUTING.md](https://github.com/fibanneacci/langplusplus/blob/main/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/fibanneacci/langplusplus/blob/main/CODE_OF_CONDUCT.md), and join the [Team Slack](https://lang-co.slack.com).
 
-Furthermore, feel free to use lang++ (in accordance with the [license](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE)) in your own projects, such as plugins or extensions for preexisting IDEs.
+Furthermore, feel free to use lang++ (in accordance with the [license](https://github.com/fibanneacci/langplusplus/blob/main/LICENSE)) in your own projects, such as plugins or extensions for preexisting IDEs.
 
 ## 🛠️ Dependencies / Built Using
 * ACE Editor - online editor demo - [ACE Editor Github Repo](https://github.com/ajaxorg/ace), [Official Website](https://ace.c9.io)
 * D3 - parsing .csv data - [D3 Github Repo](https://github.com/d3/d3), [Official Website](https://d3js.org)
 
 ## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/fibanneacci/langplusplus/blob/main/LICENSE) file for details.
 
 ## ✍️ Author
 * **Anne Li** - *Initial work* - [fibanneacci](https://github.com/fibanneacci)
