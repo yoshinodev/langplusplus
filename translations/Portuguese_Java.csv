@@ -25,7 +25,8 @@ booleano,boolean
 duplo,double
 longo,long
 extenso,long
-vetor,Array
+vetor,Single Dimensional Array
+matriz,Multidimensional Array
 lista,List
 curto,short
 pequeno,short
